@@ -1,0 +1,42 @@
+/* :root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Monlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: dana;
+  font-weight: 100;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container{
+  padding: 0 160px;
+}
+
+a{
+  text-decoration: none;
+  color: #333;
+} */
